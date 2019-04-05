@@ -1,1 +1,1 @@
-This is an iGraphics project which is deveolped by C language. 
+This is an iGraphics project which is implemented by C language. 
